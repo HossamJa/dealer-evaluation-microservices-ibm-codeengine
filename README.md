@@ -26,19 +26,6 @@ The application is divided into **3 microservices**:
 2. **Dealer Pricing** (Node.js): Provides pricing via REST API  
 3. **Frontend App**: Uses both APIs to display product and dealer pricing
 
----
-
-## 📁 Folder Structure
-
-```
-product-price-comparison-microservices-ibm-codeengine/
-├── backend/
-│   ├── product-details/
-│   └── dealer-pricing/
-├── frontend/
-├── screenshots/
-└── README.md
-```
 
 ---
 
