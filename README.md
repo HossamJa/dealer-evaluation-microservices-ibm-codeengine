@@ -56,7 +56,8 @@ ibmcloud ce application create \
 --build-source https://github.com/ibm-developer-skills-network/dealer_evaluation_backend.git
 ```
 
-🖼️ Screenshot: ![product_details_deploy](https://github.com/user-attachments/assets/23f26c7e-026a-4509-ab60-10be67b42cb7)
+🖼️ Screenshot: 
+![product_details_deploy](https://github.com/user-attachments/assets/23f26c7e-026a-4509-ab60-10be67b42cb7)
 
 
 ---
@@ -73,7 +74,8 @@ ibmcloud ce application create \
 --build-source https://github.com/ibm-developer-skills-network/dealer_evaluation_backend.git
 ```
 
-🖼️ Screenshot: ![dealer_details_deploy](https://github.com/user-attachments/assets/9e3dfacc-9cdc-4ce6-946b-051fbf9809b6)
+🖼️ Screenshot:
+![dealer_details_deploy](https://github.com/user-attachments/assets/9e3dfacc-9cdc-4ce6-946b-051fbf9809b6)
 
 
 ---
@@ -104,7 +106,8 @@ ibmcloud ce application create \
 --build-source .
 ```
 
-🖼️ Screenshot: <img width="853" height="433" alt="frontend_deploy" src="https://github.com/user-attachments/assets/b4116144-7f33-4948-be92-c828f4492935" />
+🖼️ Screenshot: 
+<img width="853" height="433" alt="frontend_deploy" src="https://github.com/user-attachments/assets/b4116144-7f33-4948-be92-c828f4492935" />
 
 
 ---
@@ -112,13 +115,17 @@ ibmcloud ce application create \
 ## 🧪 App Functionality Test
 
 🖼️ Screenshots:
-- Homepage loaded: <img width="603" height="335" alt="homepage" src="https://github.com/user-attachments/assets/702e61e6-27a6-4a0c-a621-1a3fc765161c" />
+- Homepage loaded:
+  <img width="603" height="335" alt="homepage" src="https://github.com/user-attachments/assets/702e61e6-27a6-4a0c-a621-1a3fc765161c" />
 
-- Dealer list: <img width="617" height="407" alt="product_dealer" src="https://github.com/user-attachments/assets/7611c75d-8ff1-4f69-b7f0-e2c0da28fe2e" />
+- Dealer list:
+  <img width="617" height="407" alt="product_dealer" src="https://github.com/user-attachments/assets/7611c75d-8ff1-4f69-b7f0-e2c0da28fe2e" />
 
-- Selected dealer price: <img width="634" height="305" alt="product_dealer_price" src="https://github.com/user-attachments/assets/68857456-6380-4647-824e-256a3602c482" />
+- Selected dealer price:
+  <img width="634" height="305" alt="product_dealer_price" src="https://github.com/user-attachments/assets/68857456-6380-4647-824e-256a3602c482" />
 
-- All dealer prices: <img width="619" height="341" alt="product_all_dealers_prices" src="https://github.com/user-attachments/assets/61b23ac2-c3d4-488b-a2d7-9359d891bcd6" />
+- All dealer prices:
+  <img width="619" height="341" alt="product_all_dealers_prices" src="https://github.com/user-attachments/assets/61b23ac2-c3d4-488b-a2d7-9359d891bcd6" />
 
 
 ---
